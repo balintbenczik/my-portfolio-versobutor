@@ -36,7 +36,7 @@ This project is a WordPress-based webshop created with Elementor.
 
 ### Homepage
 
-![Homepage screenshot](screenshots/home.png)
+![Homepage screenshot](screenshots/verso_homepage.pdf)
 
 ### Services Page
 
