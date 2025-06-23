@@ -38,13 +38,13 @@ This project is a WordPress-based webshop created with Elementor.
 
 ![Homepage screenshot](screenshots/verso_homepage.pdf)
 
-### Services Page
+### Product catalog
 
-![Services screenshot](screenshots/product_catalog.pdf)
+![Product catalog](screenshots/product_catalog.pdf)
 
-### Admin View – ACF Fields
+### Custom Fields
 
-![Admin screenshot](screenshots/product_page.pdf)
+![Custom Fields on product page screenshot](screenshots/product_page.pdf)
 
 ## 🔗 Live Version
 
