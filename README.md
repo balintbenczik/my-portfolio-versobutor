@@ -40,7 +40,7 @@ This project is a WordPress-based webshop created with Elementor.
 
 ### Services Page
 
-![Services screenshot](product_catalog.pdf)
+![Services screenshot](screenshots/product_catalog.pdf)
 
 ### Admin View – ACF Fields
 
