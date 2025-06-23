@@ -40,11 +40,11 @@ This project is a WordPress-based webshop created with Elementor.
 
 ### Services Page
 
-![Services screenshot](screenshots/services.png)
+![Services screenshot](product_catalog.pdf)
 
 ### Admin View – ACF Fields
 
-![Admin screenshot](screenshots/admin-acf.png)
+![Admin screenshot](screenshots/product_page.pdf)
 
 ## 🔗 Live Version
 
